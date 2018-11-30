@@ -37,6 +37,10 @@
 - location: null
   name: Rings & Coffee
   url: https://www.facebook.com/ringsandcoffee/
+  
+  - location: null
+  name: DeafTax 
+  url: https://www.deaftax.com
 
 - location: null
   name: DirtyBeardPress
